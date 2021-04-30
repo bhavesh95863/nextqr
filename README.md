@@ -1,6 +1,6 @@
 ## Nextqr
 
-QR Code generate
+QR Code generator
 
 #### License
 
